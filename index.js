@@ -40,9 +40,3 @@ class Bird extends Animal {
     }
   }
 }
-
-const bird = new Bird("Pablo", "male")
-const bird2 = new Bird("Mable", "female")
-debugger
-bird.speak()
-bird2.speak()
